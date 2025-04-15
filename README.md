@@ -1,4 +1,4 @@
-To Login use - 
+To Login use
 usermane  - admin
 password - admin123
 
